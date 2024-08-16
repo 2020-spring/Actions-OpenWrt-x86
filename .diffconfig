@@ -7,7 +7,7 @@ CONFIG_GRUB_IMAGES=y
 # CONFIG_LIBCURL_NGHTTP2 is not set
 CONFIG_PACKAGE_6in4=n
 # CONFIG_PACKAGE_amdgpu-firmware is not set
-CONFIG_PACKAGE_autosamba=n
+CONFIG_PACKAGE_autosamba=y
 CONFIG_PACKAGE_bash=y
 CONFIG_PACKAGE_amule=y
 CONFIG_PACKAGE_antileech=y
